@@ -1,0 +1,11 @@
+{
+  "name": "GraphQL_API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NoahSylwester/GraphQL_API.git",
+  "author": "Noah Sylwester <nanoabram@comcast.net>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
